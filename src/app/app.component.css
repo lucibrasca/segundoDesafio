@@ -1,0 +1,9 @@
+.aprobado {
+    color: green;
+    font-weight: bold;
+}
+
+.noAprobado {
+    color: orangered;
+    font-size: large;
+}
